@@ -1,20 +1,20 @@
 * Machine Settings
 1. Taskleisteneinstellungen
    - Widgets deaktivieren (ab Windows 11 24H2)
-~~~
-Comuterkonfiguration > Richtlinien > Administrative Vorlagen > Windows-Komponenten > Widgets
-Zulassen von Widgets > Deaktiviert
-~~~
+   ~~~
+   Comuterkonfiguration > Richtlinien > Administrative Vorlagen > Windows-Komponenten > Widgets
+   Zulassen von Widgets > Deaktiviert
+   ~~~
    - Suche auf der Taskleiste
-~~~
-Comuterkonfiguration > Richtlinien > Administrative Vorlagen > Windows-Komponenten > Suche
-Konfiguriert die Suche auf der Taskleiste > Aktiviert > Auf der Taskleiste suchen > Ausblenden
-~~~
+   ~~~
+   Comuterkonfiguration > Richtlinien > Administrative Vorlagen > Windows-Komponenten > Suche
+   Konfiguriert die Suche auf der Taskleiste > Aktiviert > Auf der Taskleiste suchen > Ausblenden
+   ~~~
    - Taskview deaktivieren
-~~~
-Comuterkonfiguration > Richtlinien > Administrative Vorlagen > Startmenü und Taskleiste
-Schaltfläche „TaskView“ ausblenden > Aktiviert
-~~~
+   ~~~
+   Comuterkonfiguration > Richtlinien > Administrative Vorlagen > Startmenü und Taskleiste
+   Schaltfläche „TaskView“ ausblenden > Aktiviert
+   ~~~
 
 
 
